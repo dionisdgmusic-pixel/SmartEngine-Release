@@ -1,6 +1,10 @@
 {
   "versionCode": 1,
   "versionName": "1.0",
-  "apkUrl": "https://github.com/UTILIZATORUL-TAU/RE_PO_TAU/releases/latest/download/app-release.apk",
-  "changelog": "Lansare oficiala SmartEngine! Fix pentru Spotify si TikTok."
+  "apkUrl": "https://github.com/dionisdgmusic-pixel/SmartEngine-Release/releases/latest/download/app-release.apk",
+  "changelog": {
+    "en": "Official release of SmartEngine! Spotify, TikTok, and YouTube support.",
+    "ro": "Lansare oficială SmartEngine! Suport pentru Spotify, TikTok și YouTube.",
+    "ru": "Официальный релиз SmartEngine! Поддержка Spotify, TikTok и YouTube."
+  }
 }
